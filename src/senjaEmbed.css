@@ -1,0 +1,4 @@
+.senja-embed {
+    display: grid;
+    grid-template: auto-rows / 1fr 1fr 1fr
+}
